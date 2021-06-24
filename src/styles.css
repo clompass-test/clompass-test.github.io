@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   margin-bottom: 60px;
+  line-height: 1.5;
 }
 
 .footer {
@@ -10,4 +11,22 @@ body {
   line-height: 60px;
   background-color: grey;
   width: 100%;
+}
+h5 {
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+#link {
+  margin-top: -100px;
+  margin-bottom: -100px;
+  text-decoration-line: none;
+}
+a {
+  text-decoration-color: rgb(211, 211, 211);
+  text-decoration-line: none;
+}
+
+#list {
+  margin-bottom: -20px;
 }
