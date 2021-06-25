@@ -26,6 +26,9 @@ footer {
   background-color: grey;
   width: 100%;
   z-index: 99 !important;
+  align-self: center;
+  left: 0;
+  overflow: hidden;
 }
 h5 {
   margin-top: 1rem;
